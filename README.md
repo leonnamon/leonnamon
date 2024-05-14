@@ -27,6 +27,7 @@
 ## 🔹Experiências
 - 🐍 Conhecimento basico em Python e JS pela fundação Bradesco
 - 🌐 Inglês Intermediário
+
 ![CANVA](https://img.shields.io/badge/CANVA-0000FF?style=for-the-badge&logo=&logoColor=white)
 ## 🔹Projetos
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonnamon&repo=dio-lab-open-source&bg_color=0000FF&border_color=6495ED&show_icons=true&icon_color=6495ED&title_color=6495ED&text_color=FFF)](https://github.com/leonnamon/repo=dio-lab-open-source)
