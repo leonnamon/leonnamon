@@ -4,8 +4,8 @@
 Bem vindo ao meu perfil do Github!
 ## 🔹Sobre mim
  Tentando me introduzir nesse vasto mundo de T.I com foco em Front-End
- - 📘 1/4 Design Gráfico - IFPE
- - 💼 Jovem aprendiz em comercio e em busca de oportunidades na área de T.I/Design
+ - 📘 2/4 Design Gráfico - IFPE
+ - 💼 Web Designer - Estágiario
  - 👾 Gosto do anime do Isagi Yoichi e sou fã de Persona
 ## 🔹Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-santos-8b38a7197/)
