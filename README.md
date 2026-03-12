@@ -4,8 +4,8 @@
 Bem vindo ao meu perfil do Github!
 ## 🔹Sobre mim
  Tentando me introduzir nesse vasto mundo de T.I com foco em Front-End
- - 📘 2/4 Design Gráfico - IFPE
- - 💼 Web Designer - Estágiario
+ - 📘 4/4 Design Gráfico - IFPE
+ - 💼 Designer - Estágiario
  - 👾 Gosto do anime do Isagi Yoichi e sou fã de Persona
 ## 🔹Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-santos-8b38a7197/)
@@ -14,7 +14,6 @@ Bem vindo ao meu perfil do Github!
 [![Telegram](https://img.shields.io/badge/Telegram-6495ED?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/leonnamon)
 [![GitHub](https://img.shields.io/badge/GitHub-0000FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonnamon)
 [![Gmail](https://img.shields.io/badge/Gmail-6495ED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Leonardosantos4100@gmail.com)
-[![DIO](https://img.shields.io/badge/DIO-0000FF?style=for-the-badge&logo=&logoColor=white)](https://www.dio.me/users/leonardosantos4100)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonnamon&theme=transparent&bg_color=0000FF&border_color=30A3DC&show_icons=true&icon_color=6495ED&title_color=87CEFA&text_color=87CEFA)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=leonnamon&theme=bear&background=0000FF&border=6495ED&dates=F6495EDFF)](https://git.io/streak-stats)
 ## 🔹Skills
