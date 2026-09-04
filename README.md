@@ -3,10 +3,10 @@
 #  Olá! Eu sou Leonardo 💫
 Bem vindo ao meu perfil do Github!
 ## 🔹Sobre mim
- Tentando me introduzir nesse vasto mundo de T.I com foco em Front-End
+ Tentando me introduzir nesse vasto mundo da programação com foco em Front-End
  - 📘 4/4 Design Gráfico - IFPE
  - 💼 Designer - Estágiario
- - 👾 Gosto do anime do Isagi Yoichi e sou fã de Persona
+ - 👾 Gosto de jrpg e kingdom hearts
 ## 🔹Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-santos-8b38a7197/)
 [![X](https://img.shields.io/badge/X-6495ED?style=for-the-badge&logo=x)](https://x.com/Leonnamon)
